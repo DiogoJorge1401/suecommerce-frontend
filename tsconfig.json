@@ -26,7 +26,7 @@
     "experimentalDecorators": true,
     "jsx": "preserve",
     "incremental": true,
-    "rootDir": "src",
+    "rootDir": ".",
     "baseUrl": "src",
     "paths": {
       "~/*": [
